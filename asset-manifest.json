@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0f7e49d8.css",
-    "main.js": "/portfolio/static/js/main.062762cf.js",
+    "main.css": "/portfolio/static/css/main.ada6b93e.css",
+    "main.js": "/portfolio/static/js/main.eb547fbd.js",
     "static/js/787.28cb0dcd.chunk.js": "/portfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/brickit.png": "/portfolio/static/media/brickit.643761a6df428f450b6f.png",
+    "static/media/instagramVideo.mp4": "/portfolio/static/media/instagramVideo.40fc24d541db89df5157.mp4",
+    "static/media/1.png": "/portfolio/static/media/1.83f220f53438c010d60c.png",
+    "static/media/3.png": "/portfolio/static/media/3.70708a3677aa1172a99d.png",
+    "static/media/4.png": "/portfolio/static/media/4.c136831dcb8189f56065.png",
+    "static/media/inmobiliaria.png": "/portfolio/static/media/inmobiliaria.6a0b7b655cf12e52b340.png",
+    "static/media/recursos.png": "/portfolio/static/media/recursos.01cd0025382d78602ef7.png",
+    "static/media/brickit.png": "/portfolio/static/media/brickit.6e3ace4249aaa5183bb6.png",
     "static/media/yo.png": "/portfolio/static/media/yo.17777d122acb55b0377b.png",
-    "static/media/instagram.png": "/portfolio/static/media/instagram.418c2b3360b9eca19fa7.png",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.23c4f5f76656e4948a1c.png",
     "static/media/rrhh.png": "/portfolio/static/media/rrhh.fa1a9160e1477683003c.png",
+    "static/media/2.png": "/portfolio/static/media/2.b6480c50b52ef48fb99e.png",
     "static/media/rio.png": "/portfolio/static/media/rio.a6e3fc18ea4a5255b34d.png",
     "static/media/car.png": "/portfolio/static/media/car.29c01fa3981ce8fe1902.png",
     "static/media/land.png": "/portfolio/static/media/land.58c611180087f7a00201.png",
+    "static/media/5.png": "/portfolio/static/media/5.0046daec9061438a426f.png",
     "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portfolio/index.html",
-    "main.0f7e49d8.css.map": "/portfolio/static/css/main.0f7e49d8.css.map",
-    "main.062762cf.js.map": "/portfolio/static/js/main.062762cf.js.map",
+    "main.ada6b93e.css.map": "/portfolio/static/css/main.ada6b93e.css.map",
+    "main.eb547fbd.js.map": "/portfolio/static/js/main.eb547fbd.js.map",
     "787.28cb0dcd.chunk.js.map": "/portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f7e49d8.css",
-    "static/js/main.062762cf.js"
+    "static/css/main.ada6b93e.css",
+    "static/js/main.eb547fbd.js"
   ]
 }
